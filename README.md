@@ -1,6 +1,8 @@
 # vue-dropslider
 
-![Travis](https://img.shields.io/travis/USER/REPO.svg?style=flat-square)
+
+![TeamCity CodeBetter](https://img.shields.io/teamcity/codebetter/bt428.svg?style=flat-square)
+
 
 ``
 npm i vue-dropslider
